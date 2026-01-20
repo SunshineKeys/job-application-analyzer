@@ -49,11 +49,6 @@ Onsite success rate: 50.0% vs Remote: 0.0%
 ```
 
 
-
-\## 💼 Interview Talking Point
-
-
-
 \*"I built this to track my job search and optimize my strategy. It revealed that onsite positions had higher success rates in my sample, helping me focus my applications. This demonstrates end-to-end data analysis: collection, processing, metrics calculation, and actionable recommendations."\*
 
 
