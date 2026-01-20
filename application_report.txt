@@ -1,0 +1,19 @@
+JOB APPLICATION ANALYSIS REPORT
+========================================
+
+OVERVIEW
+Total applications: 5
+Companies applied to: 4
+Job titles: 4
+
+STATUS BREAKDOWN
+Interviews: 1
+Rejections: 1
+Pending: 3
+
+FOLLOW-UP REQUIRED (7+ DAYS)
+- Alpha Co | Analyst | 383 days ago
+- Gamma Inc | Data Analyst | 379 days ago
+- Delta Corp | Coordinator | 374 days ago
+
+END OF REPORT
